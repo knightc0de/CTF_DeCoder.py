@@ -21,8 +21,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ctf-decoder.git
-   cd ctf-decoder
+   git clone https://github.com/knightc0de/CTF_DeCoder.py.git
+   cd CTF_DeCoder.py
    python3 decoder.py [options]
 
 ## Usage 
@@ -59,4 +59,4 @@ Binary Decoded: hello
 Created by @knightc0de
 
 # License
- - This project is licensed under the MIT License.
+ - This project is licensed under the GPLv3 License.
