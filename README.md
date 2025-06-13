@@ -33,7 +33,7 @@
  - python3 decoder.py --b32 NBSWY3DP
 
 ## Options
-**Option	Description	Example**
+*Option	Description	Example*
 ---
 - --b64	Decode Base64 string	--b64 aGVsbG8=
 - --b32	Decode Base32 string	--b32 NBSWY3DP
